@@ -118,7 +118,10 @@ This project simulates a real-world **Market Analyst** workflow by transforming 
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+<img width="1207" height="674" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/1b6e7c29-a559-472f-81c0-3917ca3aa272" />
+<img width="1188" height="684" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/ee7f8b5d-d7a9-4830-8cc1-fb7b601e4aed" />
+
+
 
 ---
 
